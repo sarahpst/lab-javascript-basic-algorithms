@@ -61,6 +61,6 @@ for (let i = 0; i < countWords.length; i++) {
         etCount++
     };
 };
-console.log(etCount);
+console.log(`Number of "et" in the text: ${etCount}`); 
 
 /* Bonus 2 */
